@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tk_da</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b22ccff-1ddb-46b3-bb28-f30237ec9cab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e26dc10a-2e37-41d5-ba25-8173f87e853d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c156672-af73-4c60-bf31-232e2ccd72da</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18e227ff-2d7d-4353-886d-bb3c13eeb9be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e26dc10a-2e37-41d5-ba25-8173f87e853d</id>
+      <masked>false</masked>
+      <name>tukhoa</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5c156672-af73-4c60-bf31-232e2ccd72da</id>
+      <masked>false</masked>
+      <name>kq</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18e227ff-2d7d-4353-886d-bb3c13eeb9be</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

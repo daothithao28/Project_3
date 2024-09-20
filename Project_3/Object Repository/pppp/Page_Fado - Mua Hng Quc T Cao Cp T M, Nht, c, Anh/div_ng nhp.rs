@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ng nhp</name>
+   <tag></tag>
+   <elementGuidId>1dc3a94f-d582-4606-bbaa-4d87d954a4ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='header-section']/div[2]/div/div/div[3]/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.section-body__item-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34d61236-c8a5-467f-9c32-2744b5c8b598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-body__item-text</value>
+      <webElementGuid>98f3ee47-66c7-4ea2-84ee-21582b6466c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Đăng nhập
+              </value>
+      <webElementGuid>0e0c886d-9804-490c-b865-dfb816cab7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-section&quot;)/div[@class=&quot;section-body&quot;]/div[@class=&quot;header-main-block&quot;]/div[@class=&quot;mz-container&quot;]/div[@class=&quot;header-main-block__user-col&quot;]/a[@class=&quot;section-body__item&quot;]/div[@class=&quot;section-body__item-text&quot;]</value>
+      <webElementGuid>14c2caf0-627d-4b49-bd61-178dd6577bd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='header-section']/div[2]/div/div/div[3]/a/div[2]</value>
+      <webElementGuid>bdc3c20a-13a3-4600-8fb6-1dd9fdc8ebba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]</value>
+      <webElementGuid>9a755c1b-c9ea-4e87-bafb-4411b3c61bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                Đăng nhập
+              ' or . = '
+                Đăng nhập
+              ')]</value>
+      <webElementGuid>27c21acf-f973-4b7c-95af-c22a4184a070</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

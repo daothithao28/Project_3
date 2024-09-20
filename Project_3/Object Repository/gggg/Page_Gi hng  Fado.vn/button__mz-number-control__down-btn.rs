@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__mz-number-control__down-btn</name>
+   <tag></tag>
+   <elementGuidId>f81a8315-c0d8-43fb-9410-9a3fd1e46492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div[2]/div/div[2]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>409928a8-f4ec-4478-b967-a2909f37ec40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mz-number-control__down-btn</value>
+      <webElementGuid>ca586428-2467-4e76-a541-19ff9d83b6f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cart-page&quot;]/div[2]/div[@class=&quot;cart-product-section-wrapper&quot;]/div[@class=&quot;wrapper-body&quot;]/section[@class=&quot;cart-product-section&quot;]/div[@class=&quot;mz-container&quot;]/div[@class=&quot;section-inner&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;product-cart-block&quot;]/div[@class=&quot;main-product-segment&quot;]/div[@class=&quot;segment-right-col&quot;]/div[@class=&quot;segment-right-top-row&quot;]/div[@class=&quot;product-quantity-col&quot;]/div[@class=&quot;mz-number-control mz-number-control-md&quot;]/div[@class=&quot;mz-number-control__btn-wrap&quot;]/button[@class=&quot;mz-number-control__down-btn&quot;]</value>
+      <webElementGuid>331d1787-54a3-4d23-83fc-4010e60f9fe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div[2]/div/div/button</value>
+      <webElementGuid>356cf0e9-653d-4776-87e6-b4f04d776575</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

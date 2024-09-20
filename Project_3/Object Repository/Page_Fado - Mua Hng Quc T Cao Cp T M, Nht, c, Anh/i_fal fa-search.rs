@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fal fa-search</name>
+   <tag></tag>
+   <elementGuidId>c88a8eed-6352-48ac-bf97-390278786e5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='header-section']/div[2]/div/div/div[2]/div/button/span[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fal.fa-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e6502fc6-b8d7-4ce9-8364-f8c81cf4aa30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fal fa-search</value>
+      <webElementGuid>23da6228-2072-4ba9-aaa9-f3b829811458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-section&quot;)/div[@class=&quot;section-body&quot;]/div[@class=&quot;header-main-block&quot;]/div[@class=&quot;mz-container&quot;]/div[@class=&quot;header-main-block__search-col&quot;]/div[@class=&quot;search-form&quot;]/button[@class=&quot;submit-btn&quot;]/span[@class=&quot;submit-btn-label&quot;]/i[@class=&quot;fal fa-search&quot;]</value>
+      <webElementGuid>f5497840-66b8-465d-af80-236c11b95943</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='header-section']/div[2]/div/div/div[2]/div/button/span[2]/i</value>
+      <webElementGuid>77aafc6a-9546-45c7-84c8-00af8cdec759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/i</value>
+      <webElementGuid>e31b9196-951f-480f-80b6-f97ab2b21450</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

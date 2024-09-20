@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DN_DA3</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>8a521b1f-0642-4086-8a30-0864ee9e0bc9</testSuiteGuid>
+   <testCaseLink>
+      <guid>7acefd63-25d9-42d3-8d4f-a2a9172e1995</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DN_TB</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bc043b98-98b5-4616-a519-225ad5f40ef6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DN_DA3</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>bc043b98-98b5-4616-a519-225ad5f40ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>4af6dd30-7445-4dc6-bf56-4b701acae534</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bc043b98-98b5-4616-a519-225ad5f40ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>952f02d0-bf3d-4848-afa7-f20987733113</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bc043b98-98b5-4616-a519-225ad5f40ef6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>abc</value>
+         <variableId>325fe3be-f546-40a9-90eb-4d3c79741931</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DoAn3_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcd6ba0e-3b15-4bea-b4ee-ff8555d2e699</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dbe92f04-b645-45f7-a40c-28d75c1dd7df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31c181d6-a6a2-4419-a025-9b9ecfca77cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6f3a68f-eea6-486e-b408-be528de6d57d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dbe92f04-b645-45f7-a40c-28d75c1dd7df</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31c181d6-a6a2-4419-a025-9b9ecfca77cb</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6f3a68f-eea6-486e-b408-be528de6d57d</id>
+      <masked>false</masked>
+      <name>Abc</name>
+   </variable>
+</TestCaseEntity>

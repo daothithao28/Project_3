@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>db344b6f-89cd-4a43-a269-3944dedadb15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='header-cart-btn']/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;cart icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2f150926-9219-4b7e-bdca-bf1e76c6712e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://st-fe-v2.fado.vn/desktop/image/icon-header/shopping-bag.png</value>
+      <webElementGuid>5c3a005a-5e59-452e-ba38-cde016aad732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>cart icon</value>
+      <webElementGuid>b9297853-7b87-4b66-b017-d28602d03a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-cart-btn&quot;)/div[@class=&quot;section-body__item-icon&quot;]/img[1]</value>
+      <webElementGuid>059b2d40-8420-48ea-82b2-5a4a5acf6b70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='header-cart-btn']/div/img</value>
+      <webElementGuid>b95f7f55-42b9-4ae4-a35c-ca1d345b8010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='cart icon']</value>
+      <webElementGuid>195b3a61-143e-4b4c-b377-ddb7d113304a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>bae17cfd-006b-4660-a74a-5ba3caccbb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://st-fe-v2.fado.vn/desktop/image/icon-header/shopping-bag.png' and @alt = 'cart icon']</value>
+      <webElementGuid>a9c2bc4b-36e9-4788-821f-755bd92b3279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

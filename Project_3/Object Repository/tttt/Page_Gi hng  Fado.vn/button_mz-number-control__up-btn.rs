@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_mz-number-control__up-btn</name>
+   <tag></tag>
+   <elementGuidId>c4214bb8-9b91-4541-975a-720a4dd9fb41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mz-number-control__up-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>&#xd;
+/html/body/div[2]/div/div/section[1]/div/div/div[2]/div[1]/div/div[2]/div/div[2]/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb3bb532-1cd5-440e-a46c-49807d366178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mz-number-control__up-btn</value>
+      <webElementGuid>71c8fb2b-ce4a-4a7c-9636-1eb12ae0476f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cart-page&quot;]/div[2]/div[@class=&quot;cart-product-section-wrapper&quot;]/div[@class=&quot;wrapper-body&quot;]/section[@class=&quot;cart-product-section&quot;]/div[@class=&quot;mz-container&quot;]/div[@class=&quot;section-inner&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;product-cart-block&quot;]/div[@class=&quot;main-product-segment&quot;]/div[@class=&quot;segment-right-col&quot;]/div[@class=&quot;segment-right-top-row&quot;]/div[@class=&quot;product-quantity-col&quot;]/div[@class=&quot;mz-number-control mz-number-control-md&quot;]/div[@class=&quot;mz-number-control__btn-wrap&quot;]/button[@class=&quot;mz-number-control__up-btn&quot;]</value>
+      <webElementGuid>80db41d7-06fa-4c93-b83a-dec32f64f04e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>4c63d666-20d5-427b-bd6a-a2077478fdae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

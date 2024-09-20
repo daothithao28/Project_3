@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>tk_demo</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>fef49ca8-6363-412f-8b68-8eebdaa06b7c</testSuiteGuid>
+   <testCaseLink>
+      <guid>ef8501f2-a85b-4baa-ab54-ad9753fe970c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/timkiem_btl</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3e18c03b-d8e0-4bc0-9424-46c602677068</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/tk_demo</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3e18c03b-d8e0-4bc0-9424-46c602677068</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tukhoa</value>
+         <variableId>2b3c56d8-a024-4060-a880-91eb227906ec</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3e18c03b-d8e0-4bc0-9424-46c602677068</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>kq</value>
+         <variableId>9387e813-96dd-452b-b598-d89ee32d2624</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_product-card__img lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>1b43ec6e-3340-4b06-982d-80111a867111</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt=&quot;Seiko Kinetic Green Dial Brown Leather Men's Watch SKA791&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6112e027-856f-4647-b86a-6e4cd6c3e6a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn-jms.woka.io/media/catalog/product/cache/df24c858758eb768757877f23cd17493/s/e/seiko-kinetic-green-dial-brown-leather-men_s-watch-ska791.jpg?width=350&amp;height=350</value>
+      <webElementGuid>3779cbd3-6f75-4ad0-b887-c25d9c586cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://cdn-jms.woka.io/media/catalog/product/cache/df24c858758eb768757877f23cd17493/s/e/seiko-kinetic-green-dial-brown-leather-men_s-watch-ska791.jpg?width=350&amp;height=350</value>
+      <webElementGuid>084c97d3-6a18-4fe0-beb7-2f835642ffa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Seiko Kinetic Green Dial Brown Leather Men's Watch SKA791</value>
+      <webElementGuid>a43874b5-563b-40c2-91d3-f953f59b2cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-card__img lazyloaded</value>
+      <webElementGuid>3adf1ddf-b4b9-4880-a899-5ac211f35290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home-page&quot;]/section[@class=&quot;home-suggest-section&quot;]/div[@class=&quot;mz-container&quot;]/div[@class=&quot;home-suggest-block&quot;]/div[@class=&quot;block-body&quot;]/div[@class=&quot;product-suggest-card-wrap mz-flex mz-flex-wrap mz--mx-8&quot;]/div[@class=&quot;mz-min-w-0 mz-w-1/5 mz-px-8&quot;]/div[@class=&quot;product-card product-item&quot;]/a[@class=&quot;product-card__img-field&quot;]/span[@class=&quot;product-card__img-field-inner&quot;]/img[@class=&quot;product-card__img lazyloaded&quot;]</value>
+      <webElementGuid>057f54b7-b81f-4a6c-81d8-dbfc557daa55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Seiko Kinetic Green Dial Brown Leather Men's Watch SKA791&quot;]</value>
+      <webElementGuid>a75b1860-fb74-47f7-9dcd-5d4e6934c27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/a/span/img</value>
+      <webElementGuid>9c8bbddb-9a72-4a24-a421-bc8bc2e61bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn-jms.woka.io/media/catalog/product/cache/df24c858758eb768757877f23cd17493/s/e/seiko-kinetic-green-dial-brown-leather-men_s-watch-ska791.jpg?width=350&amp;height=350' and @alt = concat(&quot;Seiko Kinetic Green Dial Brown Leather Men&quot; , &quot;'&quot; , &quot;s Watch SKA791&quot;)]</value>
+      <webElementGuid>1eb1b2bf-99af-4df5-a815-ee74245a7453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

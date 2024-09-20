@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>tk_da</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9ad52c93-8811-4b44-8113-269c47b9a0f3</testSuiteGuid>
+   <testCaseLink>
+      <guid>8433f04a-043f-4735-b67b-c25f7332b496</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/tk_da</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1eb7334e-9c48-46b9-9852-314ab1567b8b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/tk_dt</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1eb7334e-9c48-46b9-9852-314ab1567b8b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tukhoa</value>
+         <variableId>e26dc10a-2e37-41d5-ba25-8173f87e853d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1eb7334e-9c48-46b9-9852-314ab1567b8b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>kq</value>
+         <variableId>5c156672-af73-4c60-bf31-232e2ccd72da</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1eb7334e-9c48-46b9-9852-314ab1567b8b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>18e227ff-2d7d-4353-886d-bb3c13eeb9be</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

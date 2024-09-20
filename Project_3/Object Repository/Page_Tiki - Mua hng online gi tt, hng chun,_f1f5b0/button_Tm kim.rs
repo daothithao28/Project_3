@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tm kim</name>
+   <tag></tag>
+   <elementGuidId>25f28cde-5c15-44ed-9c90-0200fff2f3fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.styles__ButtonRevamp-sc-6cbqeh-3.LdVUr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='main-header']/div/div/div[2]/div/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5c0e7634-9a90-4a78-8466-338d394be29a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-view-id</name>
+      <type>Main</type>
+      <value>main_search_form_button</value>
+      <webElementGuid>7b7a69f3-cd9c-466b-8c79-8960847ef60d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles__ButtonRevamp-sc-6cbqeh-3 LdVUr</value>
+      <webElementGuid>ef4b40d0-055e-4092-9be4-4d3bb4916904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tìm kiếm</value>
+      <webElementGuid>3147ae0c-2a79-436c-8bdf-72b918f134ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-header&quot;)/div[@class=&quot;ContainerRevamp-sc-1hvvgwz-0 dOGdaN&quot;]/div[@class=&quot;HomeRevampHeader__HeaderLayout-sc-1n94l81-1 bflSia&quot;]/div[@class=&quot;HomeRevampHeader__SearchContainerStyled-sc-1n94l81-0 huqeuo&quot;]/div[@class=&quot;Middle__Wrap-sc-vop1h1-0 edlkEo&quot;]/div[@class=&quot;Middle__LeftContainer-sc-vop1h1-1 hBRVdJ&quot;]/div[@class=&quot;styles__Root-sc-6cbqeh-0 hULqIV&quot;]/div[@class=&quot;styles__FormRevamp-sc-6cbqeh-1 cTCXTh&quot;]/button[@class=&quot;styles__ButtonRevamp-sc-6cbqeh-3 LdVUr&quot;]</value>
+      <webElementGuid>c99dfe13-d603-47c6-8cb3-fbe2be926f4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='main-header']/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>e34fe69f-8605-4ed6-b1cf-2443e3776de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>25c58bd3-627b-4ebf-af00-5ad3d92c46d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tìm kiếm' or . = 'Tìm kiếm')]</value>
+      <webElementGuid>fcbc1063-616a-49ca-a795-64b9012487db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

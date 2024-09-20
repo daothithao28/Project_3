@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Xem gi hng v thanh ton</name>
+   <tag></tag>
+   <elementGuidId>e2a817b7-afa8-4887-bba5-ffc44c8cc53b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-view-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='main-header']/div/div/div[2]/div/div[2]/div[3]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>077c0ba0-04ac-41db-8097-3554f8dd91c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-view-cart</value>
+      <webElementGuid>e397fdca-1d35-4622-afbc-4cc4fa5c2857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/checkout/cart</value>
+      <webElementGuid>d2c433d0-88f5-4d11-9e35-6fff7abe2150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xem giỏ hàng và thanh toán</value>
+      <webElementGuid>d370f856-475b-443c-bf67-37ec8636dd40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-header&quot;)/div[@class=&quot;ContainerRevamp-sc-1hvvgwz-0 dOGdaN&quot;]/div[@class=&quot;HomeRevampHeader__HeaderLayout-sc-1n94l81-1 bflSia&quot;]/div[@class=&quot;HomeRevampHeader__SearchContainerStyled-sc-1n94l81-0 huqeuo&quot;]/div[@class=&quot;Middle__Wrap-sc-vop1h1-0 edlkEo&quot;]/div[@class=&quot;Userstyle__RootRevamp-sc-6e6am-15 hkQlMw&quot;]/div[@class=&quot;Userstyle__CartItem-sc-6e6am-14 hfiWvr&quot;]/div[@class=&quot;CartNotification__Wrapper-sc-1egoil-0 iiyvNb&quot;]/a[@class=&quot;btn-view-cart&quot;]</value>
+      <webElementGuid>2aabcf65-d65b-4707-9717-68ef04f4b17c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='main-header']/div/div/div[2]/div/div[2]/div[3]/div/a[2]</value>
+      <webElementGuid>194e5bcb-002d-4b12-84a2-1e5d2a76e6a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Xem giỏ hàng và thanh toán')]</value>
+      <webElementGuid>c2cd2b86-25f9-4e3d-a5ec-59d408cd543d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/checkout/cart')]</value>
+      <webElementGuid>97c9c998-ecba-4b91-8e14-cd87f184de40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a[2]</value>
+      <webElementGuid>c4add4bd-4814-46d9-aa48-8b4e205c8807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/checkout/cart' and (text() = 'Xem giỏ hàng và thanh toán' or . = 'Xem giỏ hàng và thanh toán')]</value>
+      <webElementGuid>6d243faf-dcdf-4ba2-8767-be0411a207cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

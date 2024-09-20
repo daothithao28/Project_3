@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Classic F91W Series Quartz Watch  Water_340624</name>
+   <tag></tag>
+   <elementGuidId>28ddc7ae-3437-4907-9ed6-e516bf323295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/div/a[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00327fc3-8e2b-4e5c-bab8-dc329e0cbb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>dc5f9e78-b1b2-4ea2-8cb3-566b60c2dc89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Classic F91W Series Quartz Watch | Water Resistant |1/100 Second Stopwatch | Daily Alarm | Hourly Time Signal |Auto Calendar |SS Caseback |12/24-Hour Format</value>
+      <webElementGuid>c080ddbf-36a2-4c26-871d-f9a0976cccb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;category-page&quot;]/div[@class=&quot;category-layout&quot;]/div[@class=&quot;mz-layout&quot;]/div[@class=&quot;mz-container&quot;]/div[@class=&quot;mz-layout__inner&quot;]/div[@class=&quot;mz-layout__main-col&quot;]/section[@class=&quot;category-content-section&quot;]/div[@class=&quot;section-body&quot;]/div[@class=&quot;category-product-card-wrap mz-grid mz-gap-8 mz-grid-cols-4 is-loading&quot;]/div[@class=&quot;product-card-col&quot;]/div[@class=&quot;price-product-card&quot;]/a[2]/div[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>ba41e5b2-95bf-4ad3-bee9-70cf7930182b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a[2]/div</value>
+      <webElementGuid>b9c72125-6db7-4c95-8d51-a28fabe73a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Classic F91W Series Quartz Watch | Water Resistant |1/100 Second Stopwatch | Daily Alarm | Hourly Time Signal |Auto Calendar |SS Caseback |12/24-Hour Format' or . = 'Classic F91W Series Quartz Watch | Water Resistant |1/100 Second Stopwatch | Daily Alarm | Hourly Time Signal |Auto Calendar |SS Caseback |12/24-Hour Format')]</value>
+      <webElementGuid>aa5548e7-92b7-4ab2-b848-999996b5db16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

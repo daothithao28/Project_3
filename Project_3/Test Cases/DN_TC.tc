@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DN_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82f2bae5-f65c-4658-96ef-f606d45707d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78ddbdf9-6f6b-47ca-8a9e-3dd0d8b0a939</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c97354e2-908e-45d1-b73d-eb496da704f7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a60299d0-3607-40db-a20d-443bd897684d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78ddbdf9-6f6b-47ca-8a9e-3dd0d8b0a939</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c97354e2-908e-45d1-b73d-eb496da704f7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a60299d0-3607-40db-a20d-443bd897684d</id>
+      <masked>false</masked>
+      <name>kq</name>
+   </variable>
+</TestCaseEntity>

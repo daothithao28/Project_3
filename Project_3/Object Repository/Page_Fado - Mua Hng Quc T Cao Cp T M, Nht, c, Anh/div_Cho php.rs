@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cho php</name>
+   <tag></tag>
+   <elementGuidId>deb77652-ef84-4516-b385-7ff0f50685b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ea3ba5a2-7be4-4064-9891-cf3108125872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sp-cell</value>
+      <webElementGuid>6f9e2ac5-8ce2-43ae-a2a6-5f05853b4dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cho phép</value>
+      <webElementGuid>74387113-4588-4805-aee0-c76377ae74d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home-page&quot;]/div[@class=&quot;sp-prompt sp-native-popover sp-pos-left show-prompt&quot;]/div[@class=&quot;sp-prompt-message&quot;]/div[@class=&quot;sp-prompt-buttons&quot;]/div[@class=&quot;sp-table-wrapper&quot;]/div[@class=&quot;sp-cell&quot;]</value>
+      <webElementGuid>54311ea5-33c7-4a47-a9d9-5c1140990c4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>99d8abeb-0951-422e-a46b-3368d0672a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cho phép' or . = 'Cho phép')]</value>
+      <webElementGuid>a2ccf818-dbb4-413a-bb3f-914311bce4a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

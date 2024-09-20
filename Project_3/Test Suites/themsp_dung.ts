@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>themsp_dung</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>3b7f4472-7eea-4d83-b6bd-eb2efb0a8463</testSuiteGuid>
+   <testCaseLink>
+      <guid>8c70335b-f037-4eac-9df3-e60bb781d821</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Thêm sp</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>eba2c44b-85c6-4cda-8a89-d882420c449c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/THEMSP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>eba2c44b-85c6-4cda-8a89-d882420c449c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SL</value>
+         <variableId>87550743-dc3f-41a2-955a-ef306760790e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eba2c44b-85c6-4cda-8a89-d882420c449c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>KQ</value>
+         <variableId>74163da0-5321-47c7-98e4-5f99aa06d09d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

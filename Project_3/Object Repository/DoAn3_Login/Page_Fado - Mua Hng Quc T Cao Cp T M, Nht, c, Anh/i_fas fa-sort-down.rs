@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fas fa-sort-down</name>
+   <tag></tag>
+   <elementGuidId>836667d6-d71f-4b22-881b-157e82154390</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-sort-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='header-section']/div[2]/div/div/div[3]/a/div[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ea76ca97-4254-43ef-8006-16d889cc7c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-sort-down</value>
+      <webElementGuid>904969f2-16d1-4185-9f38-d6b144487026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-section&quot;)/div[@class=&quot;section-body&quot;]/div[@class=&quot;header-main-block&quot;]/div[@class=&quot;mz-container&quot;]/div[@class=&quot;header-main-block__user-col&quot;]/a[@class=&quot;section-body__item&quot;]/div[@class=&quot;section-body__item-icon-down&quot;]/i[@class=&quot;fas fa-sort-down&quot;]</value>
+      <webElementGuid>ad486fac-d6a9-4a88-a5d4-ad670d4875ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='header-section']/div[2]/div/div/div[3]/a/div[3]/i</value>
+      <webElementGuid>e8ea035e-8e8e-4056-a312-b3498fd5e350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/i</value>
+      <webElementGuid>e73e1f6f-fcb1-4836-a8e3-19f2023982ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

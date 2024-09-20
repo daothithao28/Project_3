@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Thm vo gi hng</name>
+   <tag></tag>
+   <elementGuidId>442b240d-642a-4b07-a32e-3911769908cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='update-cart-button-detail-page']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.add-cart-btn > span.mz-grd-btn__label-col</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a3db29c4-3943-45a7-b1c1-126a0f092326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mz-grd-btn__label-col</value>
+      <webElementGuid>e8e776ef-ccc5-49ec-a135-055726b1d0c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm vào giỏ hàng</value>
+      <webElementGuid>c52087a5-8c55-4ed4-9481-59fab859619f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;update-cart-button-detail-page&quot;)/button[@class=&quot;add-cart-btn&quot;]/span[@class=&quot;mz-grd-btn__label-col&quot;]</value>
+      <webElementGuid>bf4d8606-5e93-44d2-a742-6e3eaa4381a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='update-cart-button-detail-page']/button/span</value>
+      <webElementGuid>29a03e9e-f02f-4685-8312-dac48dc686fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/button/span</value>
+      <webElementGuid>c91f8ac0-6c3e-40ee-989f-d82686172fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Thêm vào giỏ hàng' or . = 'Thêm vào giỏ hàng')]</value>
+      <webElementGuid>6bf8b920-47b9-437d-a5c6-1600a6ecb7b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DN_TC</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>679fb3cf-3793-40e2-9f6e-3878c01e0fc5</testSuiteGuid>
+   <testCaseLink>
+      <guid>353482b5-c2e7-49e0-b7ae-852b9238e913</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DN_TC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>047e22b6-7d75-4487-9900-9256c20fd10d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DN_TC</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>047e22b6-7d75-4487-9900-9256c20fd10d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>78ddbdf9-6f6b-47ca-8a9e-3dd0d8b0a939</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>047e22b6-7d75-4487-9900-9256c20fd10d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>c97354e2-908e-45d1-b73d-eb496da704f7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>047e22b6-7d75-4487-9900-9256c20fd10d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>kq</value>
+         <variableId>a60299d0-3607-40db-a20d-443bd897684d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

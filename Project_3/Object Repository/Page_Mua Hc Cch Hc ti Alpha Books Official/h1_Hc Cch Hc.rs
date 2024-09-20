@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Hc Cch Hc</name>
+   <tag></tag>
+   <elementGuidId>bccff11e-2aa6-46fc-8ed6-e517bd69bf1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.Title__TitledStyled-sc-c64ni5-0.iXccQY</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[2]/div/div/div/div[2]/div/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>c20fbf00-5ac6-48fa-b696-1afba666e580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Title__TitledStyled-sc-c64ni5-0 iXccQY</value>
+      <webElementGuid>f48877dc-7e2e-4166-b013-70ef246acffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Học Cách Học</value>
+      <webElementGuid>11ba5758-409b-4f42-af2a-de92920350bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/main[1]/div[@class=&quot;ContainerRevamp-sc-1hvvgwz-0 dOGdaN&quot;]/div[@class=&quot;sc-Jgsit bNqXxX&quot;]/div[@class=&quot;sc-igOmtu fyzFIs&quot;]/div[@class=&quot;sc-Jgsit bNqXxX&quot;]/div[@class=&quot;styles__Wrapper-sc-pmgxyr-0 jvWfki&quot;]/div[@class=&quot;styles__StyledProductContent-sc-vbj4qy-0 fegGLL&quot;]/div[@class=&quot;styles__BodyContainerStyled-sc-10qbgzc-0 uPvBM&quot;]/div[@class=&quot;WidgetTitle__WidgetContainerStyled-sc-12sadap-0 bufoOo&quot;]/div[@class=&quot;styles__BodyInfoStyled-sc-smyo6b-3 eDHhpS&quot;]/div[1]/div[@class=&quot;Header__HeaderStyled-sc-1bmtcih-0 iWzGzX&quot;]/h1[@class=&quot;Title__TitledStyled-sc-c64ni5-0 iXccQY&quot;]</value>
+      <webElementGuid>a857a23d-5666-4e93-84dc-2455e3f794d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[2]/div/div/div/div[2]/div/div/div/div/div/h1</value>
+      <webElementGuid>2cf87150-3ab8-4d7e-b98f-4a8460025a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>83fd5e26-32c7-4c70-97a8-ef202d2b7232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Học Cách Học' or . = 'Học Cách Học')]</value>
+      <webElementGuid>876ca152-7ad7-4871-a353-82b7beb0230a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

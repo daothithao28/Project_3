@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>giohang</name>
+   <tag></tag>
+   <elementGuidId>99f30389-16e3-445d-a3af-f32dcfd5dc9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='header-cart-btn']/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;cart icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1e91df04-9362-45b7-8aa1-9af9262766b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-body__item-text</value>
+      <webElementGuid>90e0568e-8fbc-4b4b-b675-8c7ba2c2b28b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Giỏ hàng
+              </value>
+      <webElementGuid>60d516cf-24ff-4e12-9684-0f1e7e1cd612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-cart-btn&quot;)/div[@class=&quot;section-body__item-icon&quot;]/img[1]</value>
+      <webElementGuid>e17a6c42-a1a3-48b3-9aae-b3148460de08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://st-fe-v2.fado.vn/desktop/image/icon-header/shopping-bag.png</value>
+      <webElementGuid>f907f60b-990c-47ad-a20b-532bee434db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>cart icon</value>
+      <webElementGuid>9d6751fe-0737-4fdf-8a26-02ae0bf862d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='header-cart-btn']/div/img</value>
+      <webElementGuid>d4cfb2d2-2ce0-4deb-8841-25f694d7530e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='cart icon']</value>
+      <webElementGuid>399c1d61-b223-49d6-b496-0950fb80d001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>457657ca-4024-4a79-a2f5-e9a45e8fbe5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://st-fe-v2.fado.vn/desktop/image/icon-header/shopping-bag.png' and @alt = 'cart icon']</value>
+      <webElementGuid>8e964f46-518a-4670-a0e9-22a1fcd0e4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='header-cart-btn']/div[2]</value>
+      <webElementGuid>a1398228-ef00-4215-a400-b0eb4a596dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div[2]</value>
+      <webElementGuid>b01c3714-62bb-4d13-829a-0b3da84743a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                Giỏ hàng
+              ' or . = '
+                Giỏ hàng
+              ')]</value>
+      <webElementGuid>a4932ee5-1733-4153-95ea-44c1c97736bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

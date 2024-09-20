@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Thm vo gi hng thnh cng</name>
+   <tag></tag>
+   <elementGuidId>b7577ac3-629d-4804-8119-35465b07cb17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.status</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='main-header']/div/div/div[2]/div/div[2]/div[3]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c88cde47-6983-493f-a78d-a1c133e2b4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>2c06381a-4fab-4f86-93b0-c3cf21330b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thêm vào giỏ hàng thành công!</value>
+      <webElementGuid>27de4a15-3aaf-469e-95fd-319e32ff6e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-header&quot;)/div[@class=&quot;ContainerRevamp-sc-1hvvgwz-0 dOGdaN&quot;]/div[@class=&quot;HomeRevampHeader__HeaderLayout-sc-1n94l81-1 bflSia&quot;]/div[@class=&quot;HomeRevampHeader__SearchContainerStyled-sc-1n94l81-0 huqeuo&quot;]/div[@class=&quot;Middle__Wrap-sc-vop1h1-0 edlkEo&quot;]/div[@class=&quot;Userstyle__RootRevamp-sc-6e6am-15 hkQlMw&quot;]/div[@class=&quot;Userstyle__CartItem-sc-6e6am-14 hfiWvr&quot;]/div[@class=&quot;CartNotification__Wrapper-sc-1egoil-0 iiyvNb&quot;]/p[@class=&quot;status&quot;]</value>
+      <webElementGuid>1164ca1b-d545-4771-9868-12288b95c25f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='main-header']/div/div/div[2]/div/div[2]/div[3]/div/p</value>
+      <webElementGuid>c8032638-1aec-4b98-9a00-0e56f6f68187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>8c803ee0-0d76-4ce6-9c28-08348c90a571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Thêm vào giỏ hàng thành công!' or . = 'Thêm vào giỏ hàng thành công!')]</value>
+      <webElementGuid>ec0ece03-e2f1-4e7f-99c7-3ee820bd16aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

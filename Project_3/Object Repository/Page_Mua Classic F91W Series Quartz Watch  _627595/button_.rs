@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>09e89a70-9f93-4a0c-b91b-e11f81bea46d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='oSpP.closeCustomPrompt(false); return false;']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sp-prompt-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>91886069-dae3-4a22-ae47-94cdbd4b5557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sp-prompt-close</value>
+      <webElementGuid>3a0e4135-f3c4-4576-b7b2-4bfd4a64ce5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>oSpP.closeCustomPrompt(false); return false;</value>
+      <webElementGuid>41ca62b4-36e3-46d2-a7c8-832513170b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>da8d1de6-3ae2-40e4-ba67-0c4bde807959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;product-detail-page&quot;]/div[@class=&quot;sp-prompt sp-native-popover sp-pos-left show-prompt&quot;]/button[@class=&quot;sp-prompt-close&quot;]</value>
+      <webElementGuid>4f3be328-e232-46cb-8502-4a2a9493322b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='oSpP.closeCustomPrompt(false); return false;']</value>
+      <webElementGuid>1237ae2d-92a2-4732-a441-31b9ce119b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>3c0f4450-1331-40d1-98ae-d50d62c85663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '×' or . = '×')]</value>
+      <webElementGuid>f12ba55a-b58a-482b-a32b-aaa09eafaa99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

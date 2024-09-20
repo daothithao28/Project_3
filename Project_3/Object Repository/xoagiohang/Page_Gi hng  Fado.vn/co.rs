@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>co</name>
+   <tag></tag>
+   <elementGuidId>b01a8038-fd67-44bf-842f-2207573c47d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[14]/div/div/div[2]/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mz-btn.control-btn.confirm-btn.mz-btn-bdr-round.mz-btn-lg.mz-btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f4465f8c-4705-488a-85e3-6ba515c62a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mz-btn control-btn confirm-btn mz-btn-bdr-round mz-btn-lg mz-btn-danger</value>
+      <webElementGuid>7a29ed19-1bd4-4e64-84f2-931ec33078c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Có
+                </value>
+      <webElementGuid>20d0d9e5-c8ca-4bcb-9205-69627605a33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cart-page modal-open&quot;]/div[@class=&quot;modal fade mz-confirm-modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;mz-confirm-modal__body&quot;]/div[@class=&quot;mz-confirm-modal__control-field&quot;]/button[@class=&quot;mz-btn control-btn confirm-btn mz-btn-bdr-round mz-btn-lg mz-btn-danger&quot;]</value>
+      <webElementGuid>c35549bf-93bf-4998-8b55-23f969dccc82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/div[2]/div[2]/button[2]</value>
+      <webElementGuid>9f488708-fd8f-49cd-8458-ce135ffb8cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                  Có
+                ' or . = '
+                  Có
+                ')]</value>
+      <webElementGuid>ee66c337-2965-4f10-9e4c-b3766756908d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
